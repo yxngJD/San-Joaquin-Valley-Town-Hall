@@ -56,31 +56,26 @@
             margin-top: 0;
         }
 
-        /* Added style for the orange line */
         .orange-line {
             border-top: 2px solid orange;
             margin: 20px auto;
             width: 100%;
         }
 
-        /* Added flex container */
         .flex-container {
             display: flex;
             justify-content: space-between;
             align-items: flex-start; /* Align items at the top */
         }
 
-        /* Adjusted width for better layout */
         .content {
             width: 65%;
         }
 
-        /* Adjusted width for better layout */
         .sidebar {
             width: 30%;
         }
 
-        /* Added style for the bottom line */
         .bottom-line {
             border-top: 1px solid orange; /* Changed line color to orange */
             margin-top: 20px;
@@ -88,7 +83,6 @@
             text-align: right;
         }
 
-        /* Added style for red text */
         .red-line {
             color: red;
         }
@@ -129,7 +123,6 @@
             </div>
         </div>
     </header>
-    <!-- Added the bottom line and copyright -->
     <div class="bottom-line">
         <p>© Copyright 2015 San Joaquin Valley Town Hall.</p>
     </div>
